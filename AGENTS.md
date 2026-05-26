@@ -1,16 +1,22 @@
 # AGENTS.md
 
-## Website production rules
+## Work rule
 
-Keep building through normal safe website tasks.
+AI and Codex do the file work.
+
+Do not send file creation work back to Gerry.
+
+Do not send paste work back to Gerry.
+
+Do not send file update work back to Gerry.
 
 Use direct file updates for normal website work.
 
-Use full file updates when that is cleaner than small patches.
+Use full file updates when cleaner than small patches.
 
 Commit useful changes with clear messages.
 
-## Normal safe tasks
+## Normal tasks
 
 - create website files
 - update HTML files
@@ -23,9 +29,9 @@ Commit useful changes with clear messages.
 - improve mobile layout
 - update README files
 - update instruction files
-- improve simple app behavior
+- improve planning files
 
-## Faster build order
+## Build order
 
 1. Improve homepage message.
 2. Improve navigation.
@@ -39,7 +45,7 @@ Commit useful changes with clear messages.
 
 ## Stop points
 
-Stop for blocked writes, major code deletion, framework changes, private keys, payment setup, live tracking, live ads, or unclear repository state.
+Stop only for blocked writes, major code deletion, framework changes, private keys, payment setup, live tracking, live ads, or unclear repository state.
 
 ## Tech rule
 
