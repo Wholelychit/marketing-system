@@ -1,43 +1,45 @@
 # AGENTS.md
 
-## Codex no-pause rule
+## Website production rules
 
-For routine safe website production, do not pause for thumbs-up approval.
+Keep building through normal safe website tasks.
 
-Keep working through safe tasks until the requested batch is complete or a real blocker appears.
+Use direct file updates for normal website work.
 
-## Safe tasks that do not need another approval
+Use full file updates when that is cleaner than small patches.
 
-- fix broken links
+Commit useful changes with clear messages.
+
+## Normal safe tasks
+
+- create website files
+- update HTML files
+- update CSS files
+- update JavaScript files
+- update Markdown files
+- fix links
 - fix file paths
-- improve page copy
+- improve page text
 - improve mobile layout
 - update README files
 - update instruction files
-- add simple planning files
-- remove obvious duplicate non-working files after checking references
-- improve HTML and CSS without changing the stack
+- improve simple app behavior
 
-## Stop only for real blockers
+## Faster build order
 
-Stop only if:
+1. Improve homepage message.
+2. Improve navigation.
+3. Improve mobile layout.
+4. Fix broken links.
+5. Improve the main app or main user action.
+6. Add support pages.
+7. Add topic pages.
+8. Add business planning later.
+9. Report after several useful commits.
 
-- a tool blocks the write
-- a change would delete major working code
-- a change would change the framework or build system
-- credentials or private keys are involved
-- payment setup is involved
-- live tracking or live ads are involved
-- the repository state is unclear after checking files
+## Stop points
 
-## Production rhythm
-
-1. Read README and AGENT-INSTRUCTIONS.
-2. Check current files.
-3. Make the safest useful edit.
-4. Commit the edit.
-5. Continue to the next safe edit.
-6. Report after several useful commits.
+Stop for blocked writes, major code deletion, framework changes, private keys, payment setup, live tracking, live ads, or unclear repository state.
 
 ## Tech rule
 
