@@ -28,6 +28,7 @@ This folder holds reusable marketing campaigns for Wholelychit projects.
 | `education-professional-post-topics.md` | Professional networking post topics and links | Ready |
 | `education-facebook-parent-helper-posts.md` | Facebook parent/helper post batch | Ready |
 | `education-manual-posting-log.md` | Manual tracking log for posts, channels, links, and early results | Ready |
+| `education-seo-article-reading-practice-draft.md` | First SEO article draft for calm 30-minute reading practice | Draft ready |
 
 ## Education Campaigns
 
