@@ -17,6 +17,7 @@ Ready asset files:
 - `CAMPAIGNS/education-reddit-safe-posts.md`
 - `CAMPAIGNS/education-professional-post-topics.md`
 - `CAMPAIGNS/education-facebook-parent-helper-posts.md`
+- `CAMPAIGNS/education-canva-production-checklist.md`
 
 ## Rules
 
@@ -40,13 +41,23 @@ For every post, record:
 - early result
 - notes
 
+## Priority Monday Links
+
+Use these first:
+
+1. Lesson app: `https://readeasy30.com/app.html`
+2. Calm Reading article: `https://readeasy30.com/calm-reading-practice-30-minutes-a-day.html`
+3. Reading Levels page: `https://readeasy30.com/reading-levels-beginner-to-8th-grade.html`
+4. Worksheet page: `https://readeasy30.com/sample-reading-worksheet.html`
+
 ## Week 1 Posting Table
 
 | Date | Channel | Topic | Link | Asset/File Used | Posted? | Early Result | Notes |
 |---|---|---|---|---|---|---|---|
 | 2026-06-01 | Facebook | Launch ReadEasy30 | `https://readeasy30.com/app.html` | `education-facebook-parent-helper-posts.md` | Not yet |  |  |
+| 2026-06-01 | Pinterest | Calm Reading Routine | `https://readeasy30.com/calm-reading-practice-30-minutes-a-day.html` | `education-canva-production-checklist.md` | Not yet |  |  |
+| 2026-06-01 | YouTube Shorts | Reading practice without shame | `https://readeasy30.com/calm-reading-practice-30-minutes-a-day.html` | `education-10-shorts-scripts.md` | Not yet |  |  |
 | 2026-06-01 | Pinterest | Free Reading Practice App | `https://readeasy30.com/app.html` | `education-pinterest-pin-batch.md` | Not yet |  |  |
-| 2026-06-01 | YouTube Shorts | Reading practice without shame | `https://readeasy30.com/` | `education-10-shorts-scripts.md` | Not yet |  |  |
 | 2026-06-02 | Professional network | Adult Reading Practice | `https://readeasy30.com/adult-reading-practice.html` | `education-professional-post-topics.md` | Not yet |  |  |
 | 2026-06-02 | Facebook | Adult reading practice | `https://readeasy30.com/adult-reading-practice.html` | `education-facebook-parent-helper-posts.md` | Not yet |  |  |
 | 2026-06-03 | Pinterest | ESL Reading Practice | `https://readeasy30.com/esl-reading-practice.html` | `education-pinterest-pin-batch.md` | Not yet |  |  |
