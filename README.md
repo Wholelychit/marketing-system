@@ -39,8 +39,13 @@ SlotsFreeUSA now has a defined working marketing system:
 - `SLOTSFREEUSA-30-DAY-MARKETING-CALENDAR.md` — daily action calendar for the first marketing push.
 - `SLOTSFREEUSA-AFFILIATE-OUTREACH.md` — affiliate outreach tracker and application email templates.
 - `SLOTSFREEUSA-SOCIAL-VIDEO-BATCH.md` — social posts, short video scripts, Pinterest ideas, and Canva asset prompts.
+- `SLOTSFREEUSA-WEEKLY-SEO-ARTICLE-QUEUE.md` — weekly SEO article queue and page template.
+- `SLOTSFREEUSA-CANVA-PROMPT-SHEET.md` — Canva prompts for social graphics, pins, and video covers.
+- `SLOTSFREEUSA-PINTEREST-PIN-BATCH.md` — Pinterest titles, descriptions, destinations, and weekly pin pattern.
+- `SLOTSFREEUSA-REDDIT-DISCUSSION-BATCH.md` — Reddit-safe discussion prompts and reply templates.
+- `SLOTSFREEUSA-PARTNER-SCORING-SHEET.md` — partner review scoring sheet and review-card template.
 
-These files should guide casino/social-casino review pages, partner outreach, SEO pages, social content, and future monetization.
+These files should guide casino/social-casino review pages, partner outreach, SEO pages, social content, visual content, and future monetization.
 
 ## Education Growth System
 
