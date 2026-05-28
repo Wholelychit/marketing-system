@@ -46,6 +46,7 @@ Use these files to run the marketing machine without repeating work:
 - `REVIEW-CHECKLIST.md` — final review checklist before publishing.
 - `AGENTS.md` — AI/Codex work rules.
 - `AGENT-INSTRUCTIONS.md` — detailed safe-work instructions.
+- `CODEX-WORKFLOW.md` — Codex-first workflow for routine repo editing and commits.
 
 ## Purpose
 
@@ -124,6 +125,16 @@ Avoid older misspellings:
 - resturant.ai
 
 The live slots project domain is `slotsfreeusa.com`.
+
+## Codex-First Workflow
+
+Codex is the main workflow for routine repository editing across Wholelychit projects.
+
+Use Codex for multi-file work, safe documentation updates, repo cleanup, and commits.
+
+Use the ChatGPT GitHub connector only for small reads, quick checks, reviews, or emergency single-file edits when Codex is unavailable.
+
+The reusable workflow is documented in `CODEX-WORKFLOW.md`.
 
 ## Workflow
 
