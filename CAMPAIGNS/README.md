@@ -19,6 +19,7 @@ This folder holds reusable marketing campaigns for Wholelychit projects.
 - `education-manual-posting-log.md`
 - `education-seo-article-reading-practice-draft.md`
 - `education-seo-article-adult-reading-practice-draft.md`
+- `education-seo-article-esl-reading-practice-draft.md`
 
 ## Education Campaigns
 
