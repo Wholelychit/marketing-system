@@ -71,7 +71,7 @@ Launch focus:
 - Promote ReadEasy30 first.
 - Mention MathEasy30 as sister site.
 - Use no-shame, calm daily-practice language.
-- Drive traffic to `https://readeasy30.com/app.html` and `https://readeasy30.com/reading-levels-beginner-to-8th-grade.html`.
+- Drive traffic to `https://readeasy30.com/app.html`, `https://readeasy30.com/calm-reading-practice-30-minutes-a-day.html`, and `https://readeasy30.com/reading-levels-beginner-to-8th-grade.html`.
 
 ## SlotsFreeUSA Marketing System
 
@@ -114,6 +114,7 @@ Current SlotsFreeUSA focus:
 - Added `CAMPAIGNS/education-manual-posting-log.md`.
 - Added `CAMPAIGNS/education-seo-article-reading-practice-draft.md`.
 - Added `CAMPAIGNS/education-canva-production-checklist.md`.
+- Updated `CAMPAIGNS/education-manual-posting-log.md` to include the new Calm Reading article as a Monday priority link.
 - Updated `CAMPAIGNS/README.md` to index the SEO draft and Canva checklist.
 - Added `MARKETING-FORMULA.md` as the reusable marketing formula for all Wholelychit websites.
 - Added `SLOTSFREEUSA-MARKETING-PLAN.md`.
@@ -136,11 +137,12 @@ Current SlotsFreeUSA focus:
 5. Use `MARKETING-FORMULA.md` as the shared formula for all sites.
 6. Use the education campaign files for Monday manual promotion.
 7. Use `CAMPAIGNS/education-manual-posting-log.md` to track Monday promotion.
-8. Use `CAMPAIGNS/education-canva-production-checklist.md` to produce first launch images.
-9. Use SlotsFreeUSA marketing files for casino/social-casino outreach and content execution.
-10. Use `EDUCATION-GROWTH-PLAN.md` as the shared ReadEasy30 + MathEasy30 plan.
-11. Use `CAMPAIGNS/README.md` as the campaign index.
-12. Record blockers instead of stopping.
+8. Use the Calm Reading article as a Monday priority promotion link.
+9. Use `CAMPAIGNS/education-canva-production-checklist.md` to produce first launch images.
+10. Use SlotsFreeUSA marketing files for casino/social-casino outreach and content execution.
+11. Use `EDUCATION-GROWTH-PLAN.md` as the shared ReadEasy30 + MathEasy30 plan.
+12. Use `CAMPAIGNS/README.md` as the campaign index.
+13. Record blockers instead of stopping.
 
 ## Safe Work Allowed
 
@@ -172,10 +174,9 @@ Current SlotsFreeUSA focus:
 
 ## Next Safe Build Queue
 
-1. Convert the SEO article draft into a ReadEasy30 website page when ready.
-2. Create next SEO draft from the education campaign.
-3. Update README links as files are added.
-4. Build future starter/template repo plan with `AGENTS.md`, `PROJECT-STATUS.md`, `CODEX-WORKFLOW.md`, `README.md`, `robots.txt`, `sitemap.xml`, and basic SEO checklists.
+1. Create next SEO draft from the education campaign.
+2. Update README links as files are added.
+3. Build future starter/template repo plan with `AGENTS.md`, `PROJECT-STATUS.md`, `CODEX-WORKFLOW.md`, `README.md`, `robots.txt`, `sitemap.xml`, and basic SEO checklists.
 
 ## Blockers
 
