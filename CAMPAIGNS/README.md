@@ -10,6 +10,12 @@ This folder holds reusable marketing campaigns for Wholelychit projects.
 - Do not add private keys, API tokens, live tracking, live ads, payment setup, or framework changes.
 - Campaign files can include SEO ideas, social posts, video scripts, Canva asset notes, landing page notes, and manual launch checklists.
 
+## Active Launch File
+
+| Campaign | Projects | Purpose | Status |
+|---|---|---|---|
+| `monday-promotion-launch.md` | ReadEasy30 + MathEasy30 | Start the Monday promotion push and daily campaign rhythm | Starts Monday 2026-06-01 |
+
 ## Education Campaigns
 
 | Campaign | Projects | Purpose | Status |
