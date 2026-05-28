@@ -1,0 +1,4 @@
+Use MASTER-CODEX-WEBSITE-PROMPT.
+
+Website/project-specific add-on:
+This repo is for Marketing System. Preserve the current stack and keep any public website or documentation surfaces independent, fast, simple, mobile-first, crawlable where appropriate, and reviewer-ready. Do not add live tracking, ads, private keys, payment setup, external-service dependencies, or unsupported marketing/income claims without approval.
