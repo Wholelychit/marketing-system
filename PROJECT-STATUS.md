@@ -66,6 +66,21 @@ Launch focus:
 - Use no-shame, calm daily-practice language.
 - Drive traffic to `https://readeasy30.com/app.html` and `https://readeasy30.com/reading-levels-beginner-to-8th-grade.html`.
 
+## SlotsFreeUSA Marketing System
+
+Active SlotsFreeUSA files:
+
+- `SLOTSFREEUSA-MARKETING-PLAN.md`
+- `SLOTSFREEUSA-30-DAY-MARKETING-CALENDAR.md`
+- `SLOTSFREEUSA-AFFILIATE-OUTREACH.md`
+- `SLOTSFREEUSA-SOCIAL-VIDEO-BATCH.md`
+
+Current SlotsFreeUSA focus:
+
+- Keep the website independent and static.
+- Use marketing-system for planning, outreach, social/video content, and affiliate tracking.
+- Do not add live affiliate links, live ad scripts, live tracking, or email collection until approval and privacy setup are ready.
+
 ## Completed Today
 
 - Strengthened `AGENTS.md` safe-work wording.
@@ -81,6 +96,12 @@ Launch focus:
 - Added `CAMPAIGNS/education-10-shorts-scripts.md`.
 - Added `CAMPAIGNS/education-canva-asset-prompts.md`.
 - Updated `CAMPAIGNS/README.md` to index the promotion assets.
+- Added `MARKETING-FORMULA.md` as the reusable marketing formula for all Wholelychit websites.
+- Added `SLOTSFREEUSA-MARKETING-PLAN.md`.
+- Added `SLOTSFREEUSA-30-DAY-MARKETING-CALENDAR.md`.
+- Added `SLOTSFREEUSA-AFFILIATE-OUTREACH.md`.
+- Added `SLOTSFREEUSA-SOCIAL-VIDEO-BATCH.md`.
+- Updated README links for the SlotsFreeUSA marketing execution files.
 
 ## Current Safe Queue
 
@@ -88,15 +109,11 @@ Launch focus:
 2. Keep Codex as the main repo-editing workflow.
 3. Use the ChatGPT GitHub connector only for reads, checks, or emergency edits.
 4. Build reusable systems instead of scattered one-off notes.
-5. Use `EDUCATION-GROWTH-PLAN.md` as the shared ReadEasy30 + MathEasy30 plan.
-6. Use `CAMPAIGNS/README.md` as the campaign index.
-7. Use `CAMPAIGNS/monday-promotion-launch.md` as the Monday active launch file.
-8. Use the education promotion asset files for manual launch.
-9. Create Pinterest pin titles and descriptions.
-10. Create Reddit-safe discussion post ideas.
-11. Create LinkedIn professional post batch.
-12. Create Facebook parent/helper post batch.
-13. Record blockers instead of stopping.
+5. Use `MARKETING-FORMULA.md` as the shared formula for all sites.
+6. Use SlotsFreeUSA marketing files for casino/social-casino outreach and content execution.
+7. Use `EDUCATION-GROWTH-PLAN.md` as the shared ReadEasy30 + MathEasy30 plan.
+8. Use `CAMPAIGNS/README.md` as the campaign index.
+9. Record blockers instead of stopping.
 
 ## Safe Work Allowed
 
@@ -128,18 +145,20 @@ Launch focus:
 
 ## Next Safe Build Queue
 
-1. Create Pinterest pin titles and descriptions.
-2. Create Reddit-safe discussion post ideas.
-3. Create LinkedIn professional post batch.
-4. Create Facebook parent/helper post batch.
-5. Create a manual tracking sheet or Markdown log for posts made.
-6. Update README links as files are added.
-7. Build future starter/template repo plan with `AGENTS.md`, `PROJECT-STATUS.md`, `CODEX-WORKFLOW.md`, `README.md`, `robots.txt`, `sitemap.xml`, and basic SEO checklists.
+1. Create a SlotsFreeUSA weekly SEO article queue.
+2. Create a SlotsFreeUSA Canva prompt sheet.
+3. Create a SlotsFreeUSA Pinterest pin batch.
+4. Create a SlotsFreeUSA Reddit-safe discussion batch.
+5. Create a SlotsFreeUSA LinkedIn business-building post batch.
+6. Create a partner review scoring sheet.
+7. Update README links as files are added.
+8. Build future starter/template repo plan with `AGENTS.md`, `PROJECT-STATUS.md`, `CODEX-WORKFLOW.md`, `README.md`, `robots.txt`, `sitemap.xml`, and basic SEO checklists.
 
 ## Blockers
 
 - Large direct replacement of `AGENTS.md` through the ChatGPT GitHub connector was blocked by tool safety checks. Codex should handle broader instruction-file replacements directly.
 - Automatic live posting cannot start until social accounts, posting permissions, platform rules, and approval workflow are configured.
+- SlotsFreeUSA live affiliate links, tracking, ads, and email collection are blocked until approvals, privacy, disclosure, and account setup are ready.
 
 ## Notes
 
