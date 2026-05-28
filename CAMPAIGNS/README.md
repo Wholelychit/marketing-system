@@ -27,6 +27,7 @@ This folder holds reusable marketing campaigns for Wholelychit projects.
 | `education-reddit-safe-posts.md` | Discussion-first Reddit-safe post ideas and reply templates | Ready |
 | `education-professional-post-topics.md` | Professional networking post topics and links | Ready |
 | `education-facebook-parent-helper-posts.md` | Facebook parent/helper post batch | Ready |
+| `education-manual-posting-log.md` | Manual tracking log for posts, channels, links, and early results | Ready |
 
 ## Education Campaigns
 
