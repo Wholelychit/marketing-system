@@ -33,13 +33,14 @@ Ready education promotion files include:
 - `CAMPAIGNS/education-manual-posting-log.md`
 - `CAMPAIGNS/education-seo-article-reading-practice-draft.md`
 - `CAMPAIGNS/education-seo-article-adult-reading-practice-draft.md`
+- `CAMPAIGNS/education-seo-article-esl-reading-practice-draft.md`
 
 Launch focus:
 
 - Promote ReadEasy30 first.
 - Mention MathEasy30 as sister site.
 - Use no-shame, calm daily-practice language.
-- Drive traffic to `https://readeasy30.com/app.html`, `https://readeasy30.com/calm-reading-practice-30-minutes-a-day.html`, `https://readeasy30.com/adult-reading-practice-without-shame.html`, and `https://readeasy30.com/reading-levels-beginner-to-8th-grade.html`.
+- Drive traffic to `https://readeasy30.com/app.html`, `https://readeasy30.com/calm-reading-practice-30-minutes-a-day.html`, `https://readeasy30.com/adult-reading-practice-without-shame.html`, `https://readeasy30.com/esl-reading-practice.html`, and `https://readeasy30.com/reading-levels-beginner-to-8th-grade.html`.
 
 ## Completed Today
 
@@ -54,9 +55,10 @@ Launch focus:
 - Added education social, video, Canva, Pinterest, Reddit, professional, Facebook, and posting-log files.
 - Added `CAMPAIGNS/education-seo-article-reading-practice-draft.md`.
 - Added `CAMPAIGNS/education-seo-article-adult-reading-practice-draft.md`.
+- Added `CAMPAIGNS/education-seo-article-esl-reading-practice-draft.md`.
 - Updated `CAMPAIGNS/education-manual-posting-log.md` to include the Calm Reading article as a Monday priority link.
 - Updated `CAMPAIGNS/education-manual-posting-log.md` to include the Adult Reading Without Shame page.
-- Updated `CAMPAIGNS/README.md` with a compact campaign index including the adult reading SEO draft.
+- Updated `CAMPAIGNS/README.md` with a compact campaign index including the ESL reading SEO draft.
 
 ## Current Safe Queue
 
@@ -65,9 +67,9 @@ Launch focus:
 3. Use the ChatGPT GitHub connector only for reads, checks, or emergency edits.
 4. Use the education campaign files for Monday manual promotion.
 5. Use `CAMPAIGNS/education-manual-posting-log.md` to track Monday promotion.
-6. Use the Calm Reading article and Adult Reading Without Shame page as Monday priority promotion links.
+6. Use the Calm Reading, Adult Reading Without Shame, and ESL Reading pages as priority promotion links.
 7. Use `CAMPAIGNS/education-canva-production-checklist.md` to produce first launch images.
-8. Create the next education SEO draft when ready.
+8. Convert the ESL SEO draft into a ReadEasy30 page when ready.
 9. Record blockers instead of stopping.
 
 ## Blockers
