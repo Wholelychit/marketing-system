@@ -65,6 +65,17 @@ SlotsFreeUSA now has a defined working marketing system:
 
 These files should guide casino/social-casino review pages, partner outreach, SEO pages, social content, visual content, and future monetization.
 
+## PetNeeds.ai Content System
+
+PetNeeds.ai now has starter category and content planning files:
+
+- `PETNEEDS-AI-CATEGORY-CONTENT-PLAN.md` — category hubs, page template, vet-safety language, and 30-day queue.
+- `PETNEEDS-AI-NEW-PUPPY-CHECKLIST-DRAFT.md` — first family/new-pet SEO draft.
+- `PETNEEDS-AI-TURTLE-FOUND-OUTSIDE-DRAFT.md` — unusual pet/wildlife safety draft.
+- `PETNEEDS-AI-SOCIAL-CANVA-BATCH.md` — first social posts and Canva prompts.
+
+These files should guide pet category pages, family pet content, unusual pet content, vet-safety language, future affiliate planning, and local sponsor planning.
+
 ## Education Growth System
 
 The shared education marketing plan connects ReadEasy30 and MathEasy30 as one calm daily-practice education family.
