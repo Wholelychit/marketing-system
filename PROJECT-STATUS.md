@@ -16,6 +16,10 @@ Reason: the ChatGPT GitHub connector may show internal write-action names like `
 
 Monday promotion starts on 2026-06-01.
 
+Use this first on launch day:
+
+- `CAMPAIGNS/monday-launch-one-page-checklist.md`
+
 Active launch file:
 
 - `CAMPAIGNS/monday-promotion-launch.md`
@@ -52,6 +56,7 @@ Launch focus:
 - Updated README to point future work to the new education plan and campaign files.
 - Added `CODEX-WORKFLOW.md` to document Codex-first repo editing.
 - Added `CAMPAIGNS/monday-promotion-launch.md`.
+- Added `CAMPAIGNS/monday-launch-one-page-checklist.md` as the first file to open on launch day.
 - Added education social, video, Canva, Pinterest, Reddit, professional, Facebook, and posting-log files.
 - Added `CAMPAIGNS/education-seo-article-reading-practice-draft.md`.
 - Added `CAMPAIGNS/education-seo-article-adult-reading-practice-draft.md`.
@@ -65,12 +70,13 @@ Launch focus:
 1. Keep this repo as the marketing control center.
 2. Keep Codex as the main repo-editing workflow.
 3. Use the ChatGPT GitHub connector only for reads, checks, or emergency edits.
-4. Use the education campaign files for Monday manual promotion.
-5. Use `CAMPAIGNS/education-manual-posting-log.md` to track Monday promotion.
-6. Use the Calm Reading, Adult Reading Without Shame, and ESL Reading pages as priority promotion links.
-7. Use `CAMPAIGNS/education-canva-production-checklist.md` to produce first launch images.
-8. Convert the ESL SEO draft into a ReadEasy30 page when ready.
-9. Record blockers instead of stopping.
+4. Use `CAMPAIGNS/monday-launch-one-page-checklist.md` as the first launch-day file.
+5. Use the education campaign files for Monday manual promotion.
+6. Use `CAMPAIGNS/education-manual-posting-log.md` to track Monday promotion.
+7. Use the Calm Reading, Adult Reading Without Shame, and ESL Reading pages as priority promotion links.
+8. Use `CAMPAIGNS/education-canva-production-checklist.md` to produce first launch images.
+9. Convert the ESL SEO draft into a ReadEasy30 page when ready.
+10. Record blockers instead of stopping.
 
 ## Blockers
 
