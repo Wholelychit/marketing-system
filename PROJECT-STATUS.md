@@ -93,6 +93,23 @@ SlotsFreeUSA status:
 - Trust pages and beginner SEO pages are being prepared.
 - Live affiliate links, live tracking, live ad scripts, and partner claims remain blocked until approval and final review.
 
+## PetNeeds.ai Current Content Files
+
+Use these for pet category content, family pet pages, unusual pet pages, and safe vet-language planning:
+
+- `PETNEEDS-AI-CATEGORY-CONTENT-PLAN.md`
+- `PETNEEDS-AI-NEW-PUPPY-CHECKLIST-DRAFT.md`
+- `PETNEEDS-AI-TURTLE-FOUND-OUTSIDE-DRAFT.md`
+- `PETNEEDS-AI-SOCIAL-CANVA-BATCH.md`
+
+PetNeeds.ai status:
+
+- Category planning is started.
+- First family/new-pet draft is ready.
+- First unusual pet/wildlife safety draft is ready.
+- Social and Canva starter batch is ready.
+- Live affiliate links, local ads, user uploads, public AI tools, and diagnosis claims remain blocked until approval and final review.
+
 ## Completed Today
 
 - Strengthened `AGENTS.md` safe-work wording.
@@ -125,6 +142,12 @@ SlotsFreeUSA status:
 - Added `SLOTSFREEUSA-RESPONSIBLE-PLAY-PAGE-DRAFT.md`.
 - Updated `README.md` to list the SlotsFreeUSA trust and SEO prep files.
 - Updated `PROJECT-STATUS.md` to lock SlotsFreeUSA prep files.
+- Added `PETNEEDS-AI-CATEGORY-CONTENT-PLAN.md`.
+- Added `PETNEEDS-AI-NEW-PUPPY-CHECKLIST-DRAFT.md`.
+- Added `PETNEEDS-AI-TURTLE-FOUND-OUTSIDE-DRAFT.md`.
+- Added `PETNEEDS-AI-SOCIAL-CANVA-BATCH.md`.
+- Updated `README.md` to list the PetNeeds.ai content files.
+- Updated `PROJECT-STATUS.md` to lock PetNeeds.ai content files.
 
 ## Current Safe Queue
 
@@ -140,8 +163,8 @@ SlotsFreeUSA status:
 10. Use `CAMPAIGNS/education-manual-posting-log.md` to track Monday promotion.
 11. Use SlotsFreeUSA prep files to build trust pages and first beginner SEO page.
 12. Keep SlotsFreeUSA CTAs inactive until partner approval and final review.
-13. Build PetNeeds.ai category content next.
-14. Clarify RestaurantAIbot / Resturants.ai starter offer after PetNeeds.ai category planning.
+13. Use PetNeeds.ai content files to build first pet category pages.
+14. Clarify RestaurantAIbot / Resturants.ai starter offer next.
 15. Cross-promote MathEasy30 through ReadEasy30 as the sister practice site.
 16. Record blockers instead of stopping.
 
@@ -150,7 +173,7 @@ SlotsFreeUSA status:
 - Automatic live posting cannot start until social accounts, posting permissions, platform rules, and approval workflow are configured.
 - Education LinkedIn-specific post batch was blocked repeatedly by connector safety checks. Workaround committed: `CAMPAIGNS/education-professional-post-topics.md`.
 - Full campaign index update was blocked once by connector safety checks. A compact index update committed successfully.
-- Do not add live ads, live tracking, payment setup, affiliate links, public AI tools, uploads, user accounts, or automated outreach without direct approval.
+- Do not add live ads, live tracking, payment setup, affiliate links, public AI tools, uploads, user accounts, diagnosis claims, or automated outreach without direct approval.
 
 ## Notes
 
