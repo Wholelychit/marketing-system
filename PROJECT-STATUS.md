@@ -77,6 +77,22 @@ Launch focus:
 - Use no-shame, calm daily-practice language.
 - Drive traffic to `https://readeasy30.com/app.html`, `https://readeasy30.com/calm-reading-practice-30-minutes-a-day.html`, `https://readeasy30.com/adult-reading-practice-without-shame.html`, `https://readeasy30.com/esl-reading-practice.html`, and `https://readeasy30.com/reading-levels-beginner-to-8th-grade.html`.
 
+## SlotsFreeUSA Current Prep Files
+
+Use these before publishing partner links or monetized review cards:
+
+- `SLOTSFREEUSA-TRUST-AFFILIATE-PREP.md`
+- `SLOTSFREEUSA-BEGINNER-GUIDE-DRAFT.md`
+- `SLOTSFREEUSA-RESPONSIBLE-PLAY-PAGE-DRAFT.md`
+- `SLOTSFREEUSA-AFFILIATE-OUTREACH.md`
+- `SLOTSFREEUSA-PARTNER-SCORING-SHEET.md`
+
+SlotsFreeUSA status:
+
+- Planning and draft content are safe.
+- Trust pages and beginner SEO pages are being prepared.
+- Live affiliate links, live tracking, live ad scripts, and partner claims remain blocked until approval and final review.
+
 ## Completed Today
 
 - Strengthened `AGENTS.md` safe-work wording.
@@ -104,6 +120,11 @@ Launch focus:
 - Added `CAMPAIGNS/readeasy30-week-1-community-outreach.md`.
 - Updated `CAMPAIGNS/README.md` to list the Week 1 ReadEasy30 launch assets.
 - Updated `PROJECT-STATUS.md` to lock Week 1 launch assets.
+- Added `SLOTSFREEUSA-TRUST-AFFILIATE-PREP.md`.
+- Added `SLOTSFREEUSA-BEGINNER-GUIDE-DRAFT.md`.
+- Added `SLOTSFREEUSA-RESPONSIBLE-PLAY-PAGE-DRAFT.md`.
+- Updated `README.md` to list the SlotsFreeUSA trust and SEO prep files.
+- Updated `PROJECT-STATUS.md` to lock SlotsFreeUSA prep files.
 
 ## Current Safe Queue
 
@@ -117,9 +138,9 @@ Launch focus:
 8. Use `CAMPAIGNS/readeasy30-week-1-canva-prompts.md` for Week 1 Canva graphics.
 9. Use `CAMPAIGNS/readeasy30-week-1-community-outreach.md` for manual outreach.
 10. Use `CAMPAIGNS/education-manual-posting-log.md` to track Monday promotion.
-11. Use the Calm Reading, Adult Reading Without Shame, and ESL Reading pages as priority promotion links.
-12. Build SlotsFreeUSA trust/affiliate prep after the ReadEasy30 launch push.
-13. Build PetNeeds.ai category content after SlotsFreeUSA prep.
+11. Use SlotsFreeUSA prep files to build trust pages and first beginner SEO page.
+12. Keep SlotsFreeUSA CTAs inactive until partner approval and final review.
+13. Build PetNeeds.ai category content next.
 14. Clarify RestaurantAIbot / Resturants.ai starter offer after PetNeeds.ai category planning.
 15. Cross-promote MathEasy30 through ReadEasy30 as the sister practice site.
 16. Record blockers instead of stopping.
