@@ -127,6 +127,21 @@ Resturants.ai status:
 - Social and Canva starter batch is ready.
 - Payment setup, ordering integration, live chatbot, tracking, automated outreach, and guaranteed-result claims remain blocked until approval and final review.
 
+## MathEasy30 Current Cross-Promotion Files
+
+Use these to grow MathEasy30 through ReadEasy30 as a calm sister practice site:
+
+- `MATHEASY30-CROSS-PROMOTION-PLAN.md`
+- `MATHEASY30-SISTER-SITE-CARD-COPY.md`
+- `MATHEASY30-SOCIAL-CANVA-BATCH.md`
+
+MathEasy30 status:
+
+- Cross-promotion plan is ready.
+- Sister-site card copy is ready for future ReadEasy30 and MathEasy30 website updates.
+- Social and Canva starter batch is ready.
+- Payment setup, live tracking, official grade-placement claims, private student accounts, and guaranteed-result claims remain blocked until approval and final review.
+
 ## Completed Today
 
 - Strengthened `AGENTS.md` safe-work wording.
@@ -171,6 +186,11 @@ Resturants.ai status:
 - Added `RESTURANTS-AI-SOCIAL-CANVA-BATCH.md`.
 - Updated `README.md` to list the Resturants.ai growth files.
 - Updated `PROJECT-STATUS.md` to lock Resturants.ai growth files.
+- Added `MATHEASY30-CROSS-PROMOTION-PLAN.md`.
+- Added `MATHEASY30-SISTER-SITE-CARD-COPY.md`.
+- Added `MATHEASY30-SOCIAL-CANVA-BATCH.md`.
+- Updated `README.md` to list MathEasy30 cross-promotion files.
+- Updated `PROJECT-STATUS.md` to lock MathEasy30 cross-promotion files.
 
 ## Current Safe Queue
 
@@ -188,15 +208,16 @@ Resturants.ai status:
 12. Keep SlotsFreeUSA CTAs inactive until partner approval and final review.
 13. Use PetNeeds.ai content files to build first pet category pages.
 14. Use Resturants.ai files to build first owner-facing website copy and sample audit/checkup offer.
-15. Build MathEasy30 cross-promotion assets next.
-16. Record blockers instead of stopping.
+15. Use MathEasy30 files to add sister-site cross-promotion and first math social/Canva assets.
+16. Next safe step: review which drafts should move into each live website repo.
+17. Record blockers instead of stopping.
 
 ## Blockers
 
 - Automatic live posting cannot start until social accounts, posting permissions, platform rules, and approval workflow are configured.
 - Education LinkedIn-specific post batch was blocked repeatedly by connector safety checks. Workaround committed: `CAMPAIGNS/education-professional-post-topics.md`.
 - Full campaign index update was blocked once by connector safety checks. A compact index update committed successfully.
-- Do not add live ads, live tracking, payment setup, affiliate links, public AI tools, uploads, user accounts, diagnosis claims, ordering integrations, live chatbots, guaranteed-result claims, or automated outreach without direct approval.
+- Do not add live ads, live tracking, payment setup, affiliate links, public AI tools, uploads, user accounts, diagnosis claims, ordering integrations, live chatbots, guaranteed-result claims, official grade-placement claims, or automated outreach without direct approval.
 
 ## Notes
 
